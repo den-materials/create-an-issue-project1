@@ -17,7 +17,7 @@ Tonight you will solve these issues.
 ## Exercise
 
 #### Requirements
-- If there is a table behind you, the two people behind you will be the people whose code you will review and submit issues on. If there is not a table behind you, you will review and submit issues for the table closest to the front of the class.
+- The two people to your left will be the people whose code you will review and submit issues on. If there is no one to your left, wrap around the table to the left to find the two people you will be reviewing for.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
